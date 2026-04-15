@@ -1,3 +1,6 @@
+# LUIS ENRIQUE CAJACURI GUTIERREZ - 5TO SEMESTRE - DESARROLLO DE SOFTWARE - SENATI 2026
+
+
 # 🛒 Eiser - Ecommerce Web System
 
 Bienvenido al repositorio de **Eiser**, un sistema y plantilla web orientada a la creación de una tienda en línea moderna y con un diseño minimalista.
